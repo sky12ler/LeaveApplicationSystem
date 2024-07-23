@@ -1,0 +1,27 @@
+Timestamp,Email,Leave Type,From Date,To Date,Leave Days,Approve Status
+7/6/2024 0:28:10,cziwei0112@1utar.my,Casual Leave-CL,6/4/2024,6/18/2024,15,Reject
+7/6/2024 0:33:18,cziwei0112@1utar.my,Sick Leave-SL,7/2/2024,7/6/2024,5,Approved
+7/6/2024 0:50:15,cziwei0112@1utar.my,Office Leave-OL,7/9/2024,7/11/2024,3,Approved
+7/12/2024 1:13:08,cziwei0112@1utar.my,Office Tour-OT,7/16/2024,7/27/2024,12,Approved
+7/12/2024 1:52:36,cziwei0112@1utar.my,Office Leave-OL,7/7/2024,7/19/2024,13,Approved
+7/12/2024 1:59:41,cziwei0112@1utar.my,Earn Leave-EL,7/1/2024,7/9/2024,9,Approved
+7/12/2024 2:00:47,cziwei0112@1utar.my,Earn Leave-EL,7/12/2024,7/19/2024,8,Reject-Auto
+7/14/2024 11:25:15,cziwei0112@1utar.my,Umrah Leave-UL,7/14/2024,7/16/2024,3,Reject-Auto
+7/14/2024 11:34:52,cziwei0112@1utar.my,Earn Leave-EL,7/10/2024,7/12/2024,3,Reject-Auto
+7/14/2024 11:40:38,cziwei0112@1utar.my,Office Leave-OL,7/14/2024,7/15/2024,2,Approved
+7/14/2024 11:48:04,cziwei0112@1utar.my,Office Leave-OL,7/21/2024,7/22/2024,2,Reject
+7/14/2024 11:53:49,cziwei0112@1utar.my,Casual Leave-CL,8/4/2024,8/5/2024,2,Reject-Auto
+7/14/2024 12:50:03,cziwei0112@1utar.my,Casual Leave-CL,8/9/2024,8/10/2024,2,Reject-Auto
+7/14/2024 12:51:29,cziwei0112@1utar.my,Sick Leave-SL,7/14/2024,7/14/2024,1,Approved
+7/14/2024 12:58:15,cziwei0112@1utar.my,Sick Leave-SL,8/10/2024,8/10/2024,1,Approved
+7/14/2024 13:04:17,cziwei0112@1utar.my,Sick Leave-SL,9/18/2024,9/20/2024,3,Approved
+7/14/2024 13:26:08,cziwei0112@1utar.my,Office Tour-OT,7/16/2024,7/16/2024,1,Approved
+7/14/2024 13:30:43,cziwei0112@1utar.my,Sick Leave-SL,8/1/2024,8/1/2024,1,Approved
+7/14/2024 13:33:51,cziwei0112@1utar.my,Sick Leave-SL,8/2/2024,8/2/2024,1,Approved
+7/14/2024 13:47:22,cziwei0112@1utar.my,Sick Leave-SL,8/10/2024,8/10/2024,1,Approved
+7/14/2024 13:50:02,cziwei0112@1utar.my,Sick Leave-SL,7/17/2024,7/17/2024,1,Approved
+7/23/2024 20:01:42,cziwei0112@1utar.my,Office Leave-OL,7/24/2024,7/24/2024,1,Reject
+7/23/2024 20:07:05,cziwei0112@1utar.my ,Office Leave-OL,7/25/2024,7/25/2024,1,Reject
+7/23/2024 20:11:35,cziwei0112@1utar.my,Office Leave-OL,7/26/2024,7/26/2024,1,Reject
+7/23/2024 20:15:04,cziwei0112@1utar.my,Office Leave-OL,7/27/2024,7/27/2024,1,Approved
+7/23/2024 20:18:50,cziwei0112@1utar.my,Earn Leave-EL,7/27/2024,7/27/2024,1,Reject-Auto
